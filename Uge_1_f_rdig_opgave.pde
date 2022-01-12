@@ -23,3 +23,5 @@ for (int h = 0; h< minString.length(); h++) {
   }
 }
 println("antal e fundet med for løkken:",+antalfor);
+
+println(minString.length());
